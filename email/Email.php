@@ -256,6 +256,7 @@ class Email extends ViewableData {
 	
 	/**
 	 * Debugging help
+	 * How?
 	 */
 	public function debug() {
 		$this->parseVariables();
